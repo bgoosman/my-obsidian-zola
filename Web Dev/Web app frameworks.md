@@ -1,0 +1,1 @@
+* https://enhance.dev/docs/learn/why-enhance

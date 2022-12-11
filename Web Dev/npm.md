@@ -1,0 +1,1 @@
+https://snyk.io/blog/best-practices-create-modern-npm-package/?utm_campaign=AOM-2022&utm_medium=Paid-Email&utm_source=TLDR&utm_content=best-practices-create-modern-npm-package

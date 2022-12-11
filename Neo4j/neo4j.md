@@ -1,0 +1,7 @@
+```
+docker run \
+    --publish=7474:7474 --publish=7687:7687 \
+    --volume=$HOME/neo4j/data:/data \
+    --env NEO4J_AUTH=neo4j/test \
+    neo4j:4.4.14-community
+```
